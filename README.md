@@ -1,5 +1,7 @@
 # SmartContract
 
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/fomo3d-wik)
+
 ```js
 1、智能合约的原型，就类似于自动售货机，通过一系列的设计实现共识并予以执行。
 
